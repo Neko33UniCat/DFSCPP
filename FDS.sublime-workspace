@@ -1,0 +1,769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"prime\tvector<bool> prime"
+			],
+			[
+				"i",
+				"i\tlong long i"
+			],
+			[
+				"isp",
+				"isprime\tvector<bool> isprime"
+			],
+			[
+				"vec",
+				"vector\tvector<class _Tp>"
+			],
+			[
+				"uni",
+				"unique\t_ForwardIterator unique(_ForwardIterator __first, _ForwardIterator __last)"
+			],
+			[
+				"ma",
+				"math"
+			],
+			[
+				"pb",
+				"pbpaste"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"node",
+				"node"
+			],
+			[
+				"res",
+				"resize\tvoid resize(size_type __sz)"
+			],
+			[
+				"b",
+				"branch\tint branch"
+			],
+			[
+				"pu",
+				"push_back\tvoid push_back(value_type &&__x)"
+			],
+			[
+				"vect",
+				"vector\t/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"
+			],
+			[
+				"Brain",
+				"Brain_A"
+			],
+			[
+				"ns",
+				"namespace\tnamespace"
+			],
+			[
+				"en",
+				"endregion"
+			],
+			[
+				"pr",
+				"pragma"
+			],
+			[
+				"moti",
+				"motivation_coef\tint motivation_coef"
+			],
+			[
+				"log",
+				"log\tdouble log(double)"
+			],
+			[
+				"M",
+				"M_identity\tint M_identity"
+			],
+			[
+				"F_",
+				"F_family\tint F_family"
+			],
+			[
+				"S",
+				"Student\tStudent::"
+			],
+			[
+				"ios",
+				"iostream\t/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"
+			],
+			[
+				"B",
+				"Brain_A\tBrain_A::"
+			],
+			[
+				"u_",
+				"u_long\tu_long"
+			],
+			[
+				"Whi",
+				"White_means\tint White_means"
+			],
+			[
+				"bit",
+				"bitCount\tu_long bitCount(u_long n)"
+			],
+			[
+				"In",
+				"Input\tvoid Input()"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"st",
+				"std\tstd"
+			],
+			[
+				"Ge",
+				"Gene_A"
+			],
+			[
+				"Bra",
+				"Brain"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"can",
+				"canput"
+			],
+			[
+				"ve",
+				"vector\tstandard header"
+			],
+			[
+				"re",
+				"ReverseTurnBlack"
+			],
+			[
+				"TU",
+				"TurnBlack"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"U",
+				"0UL"
+			],
+			[
+				"bla",
+				"Black"
+			],
+			[
+				"SHow",
+				"ShowIDs"
+			],
+			[
+				"sow",
+				"ShowIDs"
+			],
+			[
+				"show",
+				"ShowIDs"
+			],
+			[
+				"Show",
+				"ShowIDs"
+			],
+			[
+				"fi",
+				"file_base_name"
+			],
+			[
+				"s",
+				"Show"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MiniMax.cpp",
+			"settings":
+			{
+				"buffer_size": 367,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FDS.sublime-project",
+			"settings":
+			{
+				"buffer_size": 722,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DFS.cpp",
+			"settings":
+			{
+				"buffer_size": 1372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"compile"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"runTerminal"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"runTerminal"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"compile"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"runTerminal"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"StdInput"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"compile"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"runTerminal"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"runTerminal"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"llist",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gcc",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol:",
+				"Package Control: Add Channel"
+			],
+			[
+				"pyton",
+				"Set Syntax: Python"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import os",
+			"view",
+			"globals().keys()",
+			"exit(1)",
+			"exit()",
+			"exit",
+			"print(\"hoge\")",
+			"exit()",
+			"clear",
+			"install",
+			"ls",
+			"./main",
+			"main",
+			"package",
+			"exit()",
+			"Install Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hiroaki/Documents/DFS-C++"
+	],
+	"file_history":
+	[
+		"/Users/hiroaki/Desktop/Othello/AI/main_AI.cpp",
+		"/Users/hiroaki/Desktop/Othello/AI/include/Brain.hpp",
+		"/Users/hiroaki/Desktop/Othello/AI/DFS",
+		"/Users/hiroaki/Desktop/Atcoder/JOI/Practice/hoge.cpp",
+		"/Users/hiroaki/Desktop/Atcoder/JOI/Practice/cpp.sublime-project",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/EasyClangComplete.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/Users/hiroaki/Desktop/Atcoder/JOI/Practice/makec",
+		"/Users/hiroaki/Desktop/Atcoder/JOI/Practice/include/hoge",
+		"/Users/hiroaki/Desktop/Atcoder/JOI/Practice/output.cpp",
+		"/Users/hiroaki/Documents/DFS-C++/README.md",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+		"/Users/hiroaki/Desktop/Othello/AI/input",
+		"/Users/hiroaki/Desktop/Othello/AI/input2",
+		"/Users/hiroaki/Desktop/Othello/AI/othello.sublime-project",
+		"/Users/hiroaki/Desktop/Othello/AI/test.cpp",
+		"/Users/hiroaki/Desktop/Othello/AI/ Variables.cpp",
+		"/Users/hiroaki/Desktop/Othello/AI/include/BitBoard.hpp",
+		"/Users/hiroaki/Desktop/Othello/AI/include/Functions.hpp",
+		"/Users/hiroaki/Desktop/Othello/AI/include/AlphaBeta.cpp",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/hiroaki/Desktop/Othello/TestBox/test.txt",
+		"/Users/hiroaki/Desktop/Othello/othello.sublime-project",
+		"/Users/hiroaki/Desktop/Othello/AI/Brain.hpp",
+		"/Users/hiroaki/Desktop/Othello/main_2players.cpp",
+		"/Users/hiroaki/Desktop/Othello/include/Othello.hpp",
+		"/Users/hiroaki/Desktop/Othello/include/BitBoard.hpp",
+		"/Users/hiroaki/Desktop/Othello/main_AI.cpp",
+		"/Users/hiroaki/Desktop/Othello/include/AI/Brain.hpp",
+		"/Users/hiroaki/Desktop/Othello/include/Functions.hpp",
+		"/Users/hiroaki/Desktop/Othello/test.cpp",
+		"/Users/hiroaki/Desktop/Othello/main",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/C++17.sublime-build",
+		"/Users/hiroaki/Desktop/Othello/main.cpp",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-gcc/miscellaneous/demo.cpp",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/wchar.h",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/hiroaki/Desktop/Othello/hoge.cpp",
+		"/Users/hiroaki/Desktop/Othello/include/untitled",
+		"/Users/hiroaki/Desktop/Othello/hoge",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/hiroaki/Desktop/sublimec++/main",
+		"/Users/hiroaki/Library/Application Support/Sublime Text 3/Packages/SublimeLinter-gcc/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MiniMax.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								239,
+								239
+							]
+						],
+						"settings":
+						{
+							"SL.73.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FDS.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								719
+							]
+						],
+						"settings":
+						{
+							"SL.115.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "DFS.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.71.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 393.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 108.0
+	},
+	"output.cc":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/User/C++17.sublime-build",
+	"project": "FDS.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"include/Othello.hpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
