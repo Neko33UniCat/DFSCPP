@@ -46,22 +46,28 @@ void Inputtree(){
 		}
 	} 
 }
-int MiniMax(Node node){
+int AlphaBeta(Node node){
 	int r = node.value;
 	cout<<&node<<endl;
 	if(node.branch>0){
 		if(tree[node.leaf[0]].player == COMPUTER){//次の手がComputer -> 最大値を取る
 			for (int i = 0; i < node.branch; ++i)
-			{
-				if(r<MiniMax(tree[node.leaf[i]])){
-					r = MiniMax(tree[node.leaf[i]]);
+			{	
+				if(r<AlphaBeta(tree[node.leaf[i]])){
+					r = AlphaBeta(tree[node.leaf[i]]);
+					if(r > tree[node.parent].value){
+						break;
+					}
 				}
 			}
 		}else if(tree[node.leaf[0]].player == ME){//次の手が自分　-> 最小値を取る
 			for (int i = 0; i < node.branch; ++i)
 			{
-				if(r>MiniMax(tree[node.leaf[i]])){
-					r = MiniMax(tree[node.leaf[i]]);
+				if(r>AlphaBeta(tree[node.leaf[i]])){
+					r = AlphaBeta(tree[node.leaf[i]]);
+					if(r < tree[node.parent].value){
+						break;
+					}
 				}
 			}
 		}
@@ -70,6 +76,6 @@ int MiniMax(Node node){
 };
 int main(){
 	Inputtree();
-	cout<<MiniMax(tree[0])<<endl;
+	cout<<AlphaBeta(tree[0])<<endl;
 	return 0;
 }
