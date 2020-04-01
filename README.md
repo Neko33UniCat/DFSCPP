@@ -33,7 +33,7 @@
    * `$ ./MiniMax < input (or input2)`
    * `$ 7`
    
-* Mac
+* Windows
    * `$ g++ -std=c++17 MinMax.cpp -o MiniMax.exe`
    * `$ .¥MiniMax < input (or input2)`
    * `$ 7`
@@ -48,7 +48,7 @@
    * `$ ./AlphaBEta < input (or input2)`
    * `$ 7`
    
-* Mac
+* Windows
    * `$ g++ -std=c++17 AlphaBeta.cpp -o AlphaBeta.exe`
    * `$ .¥AlphaBeta < input (or input2)`
    * `$ 7`
