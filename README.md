@@ -27,3 +27,28 @@
 `$ git clone https://gitlab.com/UniCatHMR/dfs-cpp.git`
 
 `$ cd MiniMax`
+
+* Mac
+   * `$ g++ -std=c++17 MinMax.cpp -o MiniMax`
+   * `$ ./MiniMax < input (or input2)`
+   * `$ 7`
+   
+* Mac
+   * `$ g++ -std=c++17 MinMax.cpp -o MiniMax.exe`
+   * `$ .¥MiniMax < input (or input2)`
+   * `$ 7`
+   
+### AlphaBeta
+   `$ git clone https://gitlab.com/UniCatHMR/dfs-cpp.git`
+
+   `$ cd AlphaBeta`
+
+* Mac
+   * `$ g++ -std=c++17 AlphaBeta.cpp -o AlphaBeta`
+   * `$ ./AlphaBEta < input (or input2)`
+   * `$ 7`
+   
+* Mac
+   * `$ g++ -std=c++17 AlphaBeta.cpp -o AlphaBeta.exe`
+   * `$ .¥AlphaBeta < input (or input2)`
+   * `$ 7`
